@@ -2,7 +2,7 @@
 
 **Full-stack Developer** | **Laravel · React.js**
 
-📍 **Ubicación:** [Neiva, Colombia]  
+📍 **Ubicación:** ![Location](https://img.shields.io/badge/Ubicación-Neiva%2C%20Colombia-blue?style=flat&logo=map)
 👀 **Visitas al perfil:** ![Profile views](https://komarev.com/ghpvc/?username=samuelpaloma&color=blue&style=flat)
   
 
