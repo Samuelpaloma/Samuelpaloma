@@ -1,6 +1,6 @@
 <h1 align="center" > Samuel Felipe Paloma Quila </h1>
 
-<p align="center" >Full-stack Developer | Laravel · React.js</p>
+<h3 align="center" >Full-stack Developer | Laravel · React.js</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ubicación-Neiva%2C%20Colombia-blue?style=flat&logo=map" alt="Ubicación" />
@@ -25,19 +25,19 @@ Mi objetivo es seguir creciendo como **desarrollador full-stack** y contribuir e
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Habilidades Técnicas
 
 | Area              | Tecnologías                                                                 |
 | ----------------- | ----------------------------------------------------------------------------- |
-| **Languages**     | JavaScript · PHP (Laravel) · React  · SQL                                  |
+| **Languages**     | JavaScript · PHP (Laravel) · SQL                                  |
 | **Frontend & Mobile** | React.js                                                                   |
-| **Databases**     |  · MySQL                                                                      |
+| **Databases**     |   MySQL                                                                      |
 | **DevOps & Quality** | Git · CI/CD(GitHub Actions)                                    |
 
 ---
 
 
-## 🎓 Education 
+## 🎓 Educación
 - 🎓 Técnico en programmación de software
 - 📚 Tecnológo en Análisis y desarrollo de software (ADSO) (En curso)
   
