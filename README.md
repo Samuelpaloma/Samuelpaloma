@@ -1,10 +1,11 @@
-# Samuel Felipe Paloma Quila 
+<h1 align="center" > Samuel Felipe Paloma Quila </h1>
 
-**Full-stack Developer** | **Laravel · React.js**
+<p align="center" >Full-stack Developer | Laravel · React.js</p>
 
-📍 **Ubicación:** ![Location](https://img.shields.io/badge/Ubicación-Neiva%2C%20Colombia-blue?style=flat&logo=map)
-👀 **Visitas al perfil:** ![Profile views](https://komarev.com/ghpvc/?username=samuelpaloma&color=blue&style=flat)
-  
+<p align="center">
+  <img src="https://img.shields.io/badge/Ubicación-Neiva%2C%20Colombia-blue?style=flat&logo=map" alt="Ubicación" />
+  <img src="https://komarev.com/ghpvc/?username=samuelpaloma&color=orange&style=flat" alt="Visitas perfil" />
+</p>
 
 ---
 
