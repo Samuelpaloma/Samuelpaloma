@@ -1,9 +1,10 @@
 # Samuel Felipe Paloma Quila 
 
-**Full-stack Developer** | ** Laravel · React.js**
+**Full-stack Developer** | **Laravel · React.js**
 
-📍 **Ubicación:** [Neiva, Huila, Colombia]  
-👀 **Visitas al perfil:** _(GitHub lo muestra automáticamente)_  
+📍 **Ubicación:** [Neiva, Colombia]  
+👀 **Visitas al perfil:** ![Profile views](https://komarev.com/ghpvc/?username=samuelpaloma&color=blue&style=flat)
+  
 
 ---
 
