@@ -1,16 +1,42 @@
-## Hi there 👋
+# Samuel Felipe Paloma Quila 
 
-<!--
-**Samuelpaloma/Samuelpaloma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack Developer** | ** Laravel · React.js**
 
-Here are some ideas to get you started:
+📍 **Ubicación:** [Neiva, Huila, Colombia]  
+👀 **Visitas al perfil:** _(GitHub lo muestra automáticamente)_  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🗒 Sobre Mi
+Soy un desarrollador en formación con 3 años de experiencia académica en programación y desarrollo de software.  
+Actualmente me especializo en **JavaScript**, **PHP** y **bases de datos**, construyendo proyectos personales y académicos que fortalecen mis habilidades.  
+
+Me apasiona aprender nuevas tecnologías, resolver problemas y crear aplicaciones que me aporten conocimiento.  
+Mi objetivo es seguir creciendo como **desarrollador full-stack** y contribuir en proyectos reales que impacten positivamente.
+
+---
+
+## 🎯 Objetivos
+- Consolidar mi experiencia práctica en desarrollo web, móvil y backend  
+- Participar en proyectos colaborativos de código abierto  
+- Seguir aprendiendo sobre **frontend moderno**, **bases de datos** y **arquitectura de software**
+
+---
+
+## 🛠 Technical Skills
+
+| Area              | Tecnologías                                                                 |
+| ----------------- | ----------------------------------------------------------------------------- |
+| **Languages**     | JavaScript · PHP (Laravel) · React  · SQL                                  |
+| **Frontend & Mobile** | React.js                                                                   |
+| **Databases**     |  · MySQL                                                                      |
+| **DevOps & Quality** | Git · CI/CD(GitHub Actions)                                    |
+
+---
+
+
+## 🎓 Education 
+- 🎓 Técnico en programmación de software
+- 📚 Tecnológo en Análisis y desarrollo de software (ADSO) (En curso)
+  
+
