@@ -11,7 +11,7 @@
 
 ## 🗒 Sobre Mi
 Soy un desarrollador en formación con 3 años de experiencia académica en programación y desarrollo de software.  
-Actualmente me especializo en **JavaScript**, **PHP** y **bases de datos**, construyendo proyectos personales y académicos que fortalecen mis habilidades.  
+Actualmente me especializo en **JavaScript**, **PHP**, **JAVA** y **bases de datos**, construyendo proyectos personales y académicos que fortalecen mis habilidades.  
 
 Me apasiona aprender nuevas tecnologías, resolver problemas y crear aplicaciones que me aporten conocimiento.  
 Mi objetivo es seguir creciendo como **desarrollador full-stack** y contribuir en proyectos reales que impacten positivamente.
@@ -29,7 +29,7 @@ Mi objetivo es seguir creciendo como **desarrollador full-stack** y contribuir e
 
 | Area              | Tecnologías                                                                 |
 | ----------------- | ----------------------------------------------------------------------------- |
-| **Languages**     | JavaScript · PHP (Laravel) · SQL                                  |
+| **Languages**     | JavaScript · PHP (Laravel) · JAVA · SQL                                  |
 | **Frontend & Mobile** | React.js                                                                   |
 | **Databases**     |   MySQL                                                                      |
 | **DevOps & Quality** | Git · CI/CD(GitHub Actions)                                    |
