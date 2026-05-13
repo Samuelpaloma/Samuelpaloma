@@ -1,6 +1,6 @@
 <h1 align="center" > Samuel Felipe Paloma Quila </h1>
 
-<h3 align="center" >Full-stack Developer | Laravel · React.js</h3>
+<h3 align="center" >Full-stack Developer | Laravel · Java · React.js</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ubicación-Neiva%2C%20Colombia-blue?style=flat&logo=map" alt="Ubicación" />
