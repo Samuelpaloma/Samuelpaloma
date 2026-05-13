@@ -53,8 +53,3 @@ My goal is to continue growing as a full-stack developer and contribute to real-
 📚 Technologist in Software Analysis and Development (ADSO) — Currently studying
 
 ---
-
-## 🌐 Connect with Me
-
-- LinkedIn: your-linkedin
-- GitHub: your-github
